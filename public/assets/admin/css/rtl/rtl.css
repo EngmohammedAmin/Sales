@@ -1,0 +1,13 @@
+html,
+body {
+    direction: rtl;
+}
+
+.navigation {
+    text-align: right;
+}
+
+.logo {
+    right: 0;
+    left: auto;
+}
